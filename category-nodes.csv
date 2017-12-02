@@ -1,0 +1,332 @@
+id,label
+BOTS, Bots
+ANALYTICS,Analytics
+COMMUNICATION,Communication
+CUSTOMER_SUPPORT,Customer Support
+DESIGN,Design
+DEVELOPER_TOOLS,Developer Tools
+FILE_MANAGEMENT,File Management
+HEALTH_AND_WELLNESS,Health & Wellness
+HR_AND_TEAM_CULTURE,HR & Team Culture
+MARKETING,Marketing
+OFFICE_MANAGEMENT,Office Management
+FINANCE,Finance
+PRODUCTIVITY,Productivity
+PROJECT_MANAGEMENT,Project Management
+SALES,Sales
+SECURITY_AND_COMPLIANCE,Security & Compliance
+SOCIAL_AND_FUN,Social & Fun
+TRAVEL,Travel
+Voice_and_Video,Voice & Video
+MEDIA_AND_NEWS,Media & News
+to-do,To-do
+zapier,Zapier
+polly,Polly
+jira-cloud,Jira Cloud
+hubot,Hubot
+busybot,Busy Bot
+meekan,Meekan Scheduling
+geekbot,Geekbot
+birthdaybot,BirthdayBot
+statsbot,Statsbot
+heytaco,HeyTaco!
+howdy,Howdy
+mailclark,Mail Clark
+memo,Memo
+growthbot,GrowthBot
+growbot,GrowBot
+paperbot,PaperBot
+lunchtrain,Lunch Train
+astrobot,AstroBot
+donut,Donut
+@must-read,@must-read
+attendancebot,AttendanceBBot
+workstreams,Workstreams
+hbr,HBR
+appfollow,AppFollow
+gamemonk,Game Monk
+expensetron,ExpenseTron
+forecast,Forecast
+officeamp,OfficeAmp
+cloze,Cloze
+stopbreathandthink,Stop Breath And Think
+meetingbot,Meeting Bot
+jira-integration+,Jira Integration +
+envoy,Envoy
+nikabot,Nika Bot
+workbot,Work Bot
+reveal,Reveal
+jell,Jell
+conclude,Conclude
+surveymonkey,Survey Monkey
+emojibot,Emoji Bot
+nikkei,NIKKEI
+ace,Ace
+guru,Guru
+coinbot,Coin Bot
+timebot,Time Bot
+niles,Niles
+pombo,Pombo
+lighthouse,Lighthouse
+a-cloud-guru-bot,BOTS
+solid,Solid
+spacetime,Spacetime
+yala,Yala
+swingmail,Swing Mail
+proofme,ProofMe
+standupbot,Standup Bot
+butter.ai,Butter.ai
+zoom.ai,Zoom.ai
+lunchbob,/LunchBox
+hp-print-bot,HP Print Bot
+standupjack,Standup Jack
+sportbot,sportbot
+digest.ai,Digest.AI
+dbot,dbot by Demisto
+integromat,Integromat
+cexy,Cexy
+glance,Glance
+arlie,Arlie
+lurchr,Lurchr
+syncmusicbot,SyncMusicBot
+talla,Talla
+any.do,Any.do
+tatsu,Tatsu
+decisionbot,decisionbot
+ico-watchdog,ICO Watchdog
+market,Market
+neko,Neko by Culture Amp
+reviewbot,ReviewBot
+soapbox,SoapBox
+zenefits,Zenefits
+anonymous-bot,Anonymous Bot
+vsts-bot,VSTS-Bot
+duuoo,Duuoo
+flexbot,flexbot
+metacert,MetaCert Security
+atomist,Atomist
+cryptocheck,cryptocheck
+push-for-slack,Push For Slack
+training-by-talla,Training by Talla
+dailyupdates,DailyUpdates
+yellowant,YellowAnt
+freework,Freework Time Tracking
+anamakbot,Anamak Bot
+pegg,Pegg
+agora,Agora
+scorebot,scorebot
+a;,A; Teamwork engagement
+marbot,Marbot
+your.md,Your.MD
+hiohmy,hiohmy
+sudo,sudo Free CRM
+ssh-client-bot,SSH Client Bot
+healthybot,HealthyBot
+janitr,Janitr
+lunchbot,Lunchbot
+beepboop,Beep Boop
+findo,Findo
+pushmetrics,PushMetrics
+koyfin,Koyfin
+engazify,Engazify
+gratify,Gratify
+runbot,RunBot
+fireflies.ai,Fireflies.ai
+alertsy,Alertsy
+words,Words Dictionary & Synonyms
+abot,Abot Anonymous Feedback
+revere,Revere
+autocompete,AutoCompete
+plato,Plato
+ringcentral,RingCentral
+slinky,Slinky
+grasp,Grasp
+turbot,Turbot
+brandfolder,BrandFolder
+slido,Slido
+highly,Highly
+limibot,LimiBot
+aloha,Aloha
+cricketbot,Cricket Bot
+pixibot,Pixibot
+quantbot,QuantBot
+recruiterbox,RecruiterBox
+dailybot,Dailybot
+mosaic,Mosaic
+influencerbot,Influencer Bot
+repoinfo,Repo Info
+amp,Amp
+spectr,Spectr the legal guy
+twine,Twine
+moodz,Moodz
+zanie,Zanie by betwixt.us
+papio,Papio
+lametric,LaMetric
+scrumbot,Scrumbot
+pep,Pep
+bubbleiq,BubbleIq Supercharge Zendesk
+tonkean,Tonkean
+numi,Numi
+pmbot,PM Bot
+sumbot,SumBot
+saucelabs,Sauce Labs
+lydiabot,LydiaBot
+senders,Senders
+welcomebot,WelcomeBot
+dockbit,Dockbit
+goodripple,GoodRipple
+slash-nom,slash-nom
+scrunch-bot,scrunch-bot
+thrillist,Thrillist
+advobot,advobot
+cently,Cently
+firebot,Firebot
+raiya,Raiya
+ahoy.ai,Ahoy.Ai
+ask-adobe-analytics,Ask Adobe Analytics
+opteo-bot,Opteo Bot
+nomnom,NomNom
+liarsdice,Liar's Dice
+freee,freee
+dominos,Domino's
+sendpulse,SendPulse Chat Bot
+reactionbot,ReactionBot
+cstar,CSTAR
+opbot,OpBot
+project-insight,Project Insight
+salesbot,Sales Bot
+gupshupproxybot,Gupshup Proxy bot
+designernewsbot,designernewsbot
+moji,Moji
+kronostimezoner,Kronos Timezoner
+maisie,Maisie
+advocately,Advocately
+double-loop,Double-Loop
+luna,Luna
+katella,Katella
+alias,alias
+memogif,MeMoGIF
+yogi,Yogi
+misheardgif,MisheardGIF
+advisormary,Advisor Mary
+bracketbot,BracketBot
+buccketbot,BucketBot
+beeminder,BeeMinder
+teampay,Teampay
+botengine,BotEngine
+nearminderbot,NearMinderBot
+zoe,Zoe
+hyphen,Hyphen
+janis,Janis
+cakehr,CakeHR
+picaticevent,Picatic Event
+echobot,echobot
+healthherobot,Health Hero Bot
+exopm,EXOPM
+protobot,ProtoBot
+alterra,Alterra
+supportboard,Support Board
+bitebot,Bitebot
+lawgeex,LawGeex
+plop,Plop
+stratejos,stratejos
+kelasa,Kelasa
+scoreboard,scoreboard
+instabot,Instabot
+miserbot,miserbot
+sisense,Sisense
+zalster,Zalster
+lucy-abbot,Lucy Abbot
+shoppbot,ShoppBot
+kweri,Kweri
+dino,dino
+henry,Henry
+davis,davis
+suttna,Suttna
+monoji,Monoji
+erwin,Erwin
+alertly,Alertly
+avocado-culture,Avocado Culture
+talla,Talla The Trends Assistant
+tetherbot,TetherBot
+smartsam,SmaartSam
+quiettime,QuietTime
+evabot,Evabot
+kudos,Kudos
+chief-on-boarding,Chief On Boarding
+use-tact,Use Tact
+snoop,Snoop
+salesmate,Salesmate
+sunnybot,SunnyBot From Fond
+probot-ninja,ProBot Ninja
+rocketbot,RocketBot
+durian-the-bot,Durian the Bot
+humbot,Humbot
+chronicle,Chronicle
+allanswered,AllAnswered
+colabot,Colabot
+senseihub,SenseiHub
+coment.io,coment.io
+standup-stan,Standup Stan
+metagon,Metagon
+zerofox,ZeroFOX
+mink,Mink
+skysports,Sky Sports Jeff Bot
+revise-bot,Revise Bot
+evie,Evie
+botba,Bot BA
+lyte,Lyte
+taxbot,Taxbot
+paste2run,paste2run
+drafted,drafted
+pagertree,PagerTree
+petebot,petebot
+sredbot,SREDbot
+formbot,Formbot
+flowerbot,FlowerBot
+askmyunclesam,AskMyUncleSam
+q,Q
+ondmarc,OnDMARC
+dumpthetrumps,Dump The Trumps
+fortay,Fortay
+ava,Ava
+ranktab,Ranktab
+foodslacking,Food Slacking
+focus,Focus
+donewell,Donewell
+pdf.center,pdf.center
+scrumgenius,ScrumGenius
+skygaze,Skygaze
+upraise,UpRaise
+patfinder,PatFinder
+onebar,OneBar
+donatebot,DonateBot
+ednabot,Ednabot
+integryconnector,Integry Connector
+lexi,Lexi
+netskope,Netskope for Slack Enterprise
+valueadderbot,ValueAdder Bot
+vacationbot,Vacation Bot
+ahabot,AhaBot
+jupybot,JupyBot
+melbournetransport,Melbourne Transport
+framestr,Framestr
+hrpartnerbot,HR Partner Bot Assistant
+larynxbot,larynxBot
+worldnetchatbot,Worldnet-Chatbot
+planbot,Planbot
+howler,Howler
+tsabot,TSA  Bot
+ioffice,iOFFICE
+eva,Eva
+botscout,BotScout
+hevo,Hevo
+actionable.me,actionable.me
+hackry,hackry
+carterelapelis,Cartelera Pelis
+dewey,Dewey
+hn,HN
+caretservice,Caret Service
+rorschachtest,Rorschach Test
+envoiced,Envoiced
+madad,Madad
